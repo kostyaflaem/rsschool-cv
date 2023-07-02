@@ -1,3 +1,3 @@
 # rsschool-cv
 2 popytka
-https://kostyaflaem.github.io/rsschool-cv/cv.md
+https://kostyaflaem.github.io/rsschool-cv/cv
