@@ -21,3 +21,13 @@ ___
 ```python
 print: hello world
 ```
+___
+## **Education**
+___
++ University: UMCS in Lublin, PR i zarzadzanie informacja
++ Courses:
+   + photoshop 2023
+___
+## English
+___
+B2(ended english course in university)
